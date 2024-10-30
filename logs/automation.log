@@ -1,0 +1,198 @@
+2024-10-28 02:04:04 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 02:04:04 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 02:04:05 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 02:04:15 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 02:04:15 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 02:04:18 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 02:04:22 INFO  TC_04_TestingHomeInsurance:39 -
+			**** Finished TC_04_TestingHomeInsurance *****
+2024-10-28 02:04:32 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 02:04:32 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 02:04:32 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 02:05:00 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 02:05:00 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 02:05:01 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 02:05:11 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 02:05:11 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 02:05:14 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 02:05:19 INFO  TC_04_TestingHomeInsurance:39 -
+			**** Finished TC_04_TestingHomeInsurance *****
+2024-10-28 02:05:35 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 02:05:35 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 02:05:35 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 02:06:01 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 02:06:01 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 02:06:02 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 02:06:13 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 02:06:13 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 02:06:15 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 02:06:20 INFO  TC_04_TestingHomeInsurance:39 -
+			**** Finished TC_04_TestingHomeInsurance *****
+2024-10-28 02:06:30 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 02:06:30 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 02:06:30 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 02:16:35 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 02:16:35 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 02:16:35 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 02:16:46 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 02:16:46 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 02:16:48 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 02:16:55 INFO  TC_04_TestingHomeInsurance:39 -
+			**** Finished TC_04_TestingHomeInsurance *****
+2024-10-28 02:17:03 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 02:17:03 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 02:17:04 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 02:17:22 INFO  TC_03_TestingCarInsuranceErrorMsg:40 -
+			**** Finished TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 02:18:54 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 02:18:54 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 02:18:54 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 02:19:05 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 02:19:05 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 02:19:08 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 02:19:13 INFO  TC_04_TestingHomeInsurance:39 -
+			**** Finished TC_04_TestingHomeInsurance *****
+2024-10-28 02:19:23 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 02:19:23 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 02:19:23 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 02:19:52 INFO  TC_03_TestingCarInsuranceErrorMsg:40 -
+			**** Finished TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 09:23:42 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 09:23:42 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 09:23:42 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 09:23:51 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 09:23:51 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 09:23:53 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 09:24:11 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 09:24:11 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 09:24:11 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 09:24:15 INFO  TC_03_TestingCarInsuranceErrorMsg:40 -
+			**** Finished TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 09:25:17 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 09:25:17 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 09:25:17 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 09:25:24 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 09:25:24 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 09:25:26 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 09:25:45 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 09:25:45 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 09:25:45 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 09:25:49 INFO  TC_03_TestingCarInsuranceErrorMsg:40 -
+			**** Finished TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 09:29:42 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 09:29:42 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 09:29:43 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 09:29:49 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 09:29:49 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 09:29:52 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 09:30:10 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 09:30:10 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 09:30:10 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 09:30:14 INFO  TC_03_TestingCarInsuranceErrorMsg:40 -
+			**** Finished TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 09:34:40 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 09:34:40 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 09:34:41 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 09:34:50 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 09:34:50 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 09:34:52 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 09:36:37 INFO  TC_01_ListOfHealthInsurances:14 -
+			**** Starting TC_01_ListOfHealthInsurances *****
+2024-10-28 09:36:37 INFO  TC_01_ListOfHealthInsurances:17 -
+			policybazzar main page object created 
+2024-10-28 09:36:37 INFO  TC_01_ListOfHealthInsurances:27 -
+			**** Finished TC_01_ListOfHealthInsurances *****
+2024-10-28 09:36:44 INFO  TC_04_TestingHomeInsurance:15 -
+			**** Started TC_04_TestingHomeInsurance *****
+2024-10-28 09:36:44 INFO  TC_04_TestingHomeInsurance:18 -
+			policybazzar main page object created 
+2024-10-28 09:36:46 INFO  TC_04_TestingHomeInsurance:23 -
+			Home insurance page object created 
+2024-10-28 09:36:51 INFO  TC_04_TestingHomeInsurance:39 -
+			**** Finished TC_04_TestingHomeInsurance *****
+2024-10-28 09:36:58 INFO  TC_03_TestingCarInsuranceErrorMsg:14 -
+			**** Started TC_03_TestingCarInsuranceErrorMsg *****
+2024-10-28 09:36:58 INFO  TC_03_TestingCarInsuranceErrorMsg:17 -
+			policybazzar main page object created 
+2024-10-28 09:36:58 INFO  TC_03_TestingCarInsuranceErrorMsg:21 -
+			CarInsurance main page object created 
+2024-10-28 09:37:03 INFO  TC_03_TestingCarInsuranceErrorMsg:40 -
+			**** Finished TC_03_TestingCarInsuranceErrorMsg *****
